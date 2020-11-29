@@ -7,7 +7,7 @@
 <title>가라길깃깃깃깃깃 붐붐붐~</title>
 </head>
 <body>
-뱅뱅사거리 붐붐파우
+뱅거리가 멀당께리 붐붐파우
 	이것은 이다 깃.zzzzzzz
 </body>
 </html>
